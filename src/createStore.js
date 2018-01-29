@@ -14,7 +14,7 @@ export default function createStore(reducer) {
       getState
     }
   }
-  
+
   function render() {
     const container = document.getElementById('container');
   }
